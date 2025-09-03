@@ -26,8 +26,8 @@ Refer to the **RTL_PD_Study_Guide.pdf** in the `Resources/` folder for the 24-we
 - 🚀 DSP Block (FIR Filter)
 
 ## 📬 Contact
-- LinkedIn: [Your_LinkedIn]
-- Email: [Your_Email]
+- LinkedIn: www.linkedin.com/in/akanksha-v-7836372a9
+- Email: akankshavenkatesh07@gmail.com
 
 ---
 ⭐ Star this repo if you find it useful or fork it to build your own portfolio!
